@@ -1,4 +1,4 @@
-## Hello there, I'm Quentin GROPPI (or @SuperSpace5) 👋
+## Hello there, I'm Quentin GROPPI 👋
 
 Welcome my Github profile !
 
