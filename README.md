@@ -2,7 +2,7 @@
 
 Welcome my Github profile !
 
-I'm a Student in Computer Science and Networks in Mirepoix. I'm a Future cybersecurity student in Montpellier YNOV Campus (in 09-2024). I'm a young developer specializing in software, the web, the android application and I specialize in cybersecurity.
+I'm a cybersecurity student in Montpellier YNOV Campus. I'm a young developer specializing in software, the web, the android application and I specialize in cybersecurity.
 
 ## Social Media
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-groppi/)
